@@ -1,1 +1,1 @@
-This repository contains the source code, in R language, of the R Shiny application hosted at: http://apps.cedeplar.ufmg.br:3838/sigam_br/. Also available are the data and related images employed to develop said web app.
+This repository contains the source code, in R language, of the R Shiny application hosted at: https://geesc.shinyapps.io/sigam_br/. Also available are the data and related images employed to develop said web app.
